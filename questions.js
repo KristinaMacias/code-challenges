@@ -1,3 +1,4 @@
+console.log("Code Wars Questions:");
 //Code Wars & Other Code Challenges
 //This scripts sheet contains the questions only
 

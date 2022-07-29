@@ -1,3 +1,4 @@
+console.log("Code Wars Solutions:");
 //Code Wars
 //This scripts sheet contains the solutions
 
